@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+Cities seed:
+https://github.com/jeanfbrito/br_populate
