@@ -5,7 +5,7 @@ Vagrant.configure(2) do |config|
   config.vm.box = 'jadesystems/rails-5-1'
   config.vm.provider "virtualbox" do |v|
         v.memory = 4096
-        v.cpus = 4
+        v.cpus = 16
     end
   # Create a forwarded port mapping which allows access to a specific port
   # This one is for running Rails (puma, mongrel)
